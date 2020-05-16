@@ -1,0 +1,9 @@
+{
+    "username":  "admin",
+    "loggerconfig":  "path to logger confg",
+    "password":  "ovms module password",
+    "rawlogdir":  "locaton for unparsed logs",
+    "wsurl":  "ws://IPADDRESS/msg",
+    "loginurl":  "http://IPADDRESS/status",
+    "webcorepistonuri":  "WEBCOERE PISTON URI"
+}
